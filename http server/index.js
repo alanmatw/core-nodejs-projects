@@ -1,10 +1,11 @@
-// import package
+// import packages
 const http = require('http')
 
 // create server object
 const requestListner = function(req, res) {
-  res.writeHead(200) // response header
-  res.end('Hello World!') // response end
+  res.writeHead(200, {'Content-Type': 'text/html'}); // response header
+  res.write('Hello World!') // response msg
+  res.end() // response end
 }
 
 // create server
