@@ -1,4 +1,4 @@
-// import packages
+// import package
 const http = require('http')
 
 // create server object

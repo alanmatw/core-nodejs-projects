@@ -1,2 +1,2 @@
 # http server - Hello World!
-Making a simple HTTP server in Node.js has become the de facto 'hello world' for the platform. On the one hand, Node.js provides extremely easy-to-use HTTP APIs; on the other hand, a simple web server also serves as an excellent demonstration of the asynchronous strengths of Node.js.
+Making a simple HTTP server in Node.js has become the de facto 'hello world' for the platform. A simple web server serves as an excellent demonstration of the asynchronous strengths of Node.js.
