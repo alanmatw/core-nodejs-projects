@@ -11,7 +11,7 @@
 
 ## Modules Used
 
-Node.js has many buiit-in modules that can be used without any further installation. The modules used in the mini projects are:
+Node.js has many buiit-in modules that can be used without any further installation. The modules used in the mini projects so far are:
 
 * http - To make Node.js act as an HTTP server
 * fs - 	To handle the file system
@@ -38,3 +38,11 @@ cd to a mini project and run the server.
 cd http server
 node index.js
 ```
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
