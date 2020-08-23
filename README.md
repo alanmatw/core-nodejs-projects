@@ -34,8 +34,8 @@ node index.js
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
+All are welcomed to contribute to this repo by creating new mini projects or making corrections if any. 
+> Make sure that the new mini project is made with built-in Node.js modules.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
