@@ -34,8 +34,9 @@ node index.js
 
 ## Contributing
 
-All are welcomed to contribute to this repo by creating new mini projects or making corrections if any. 
+All are welcomed to contribute to this repo by creating new mini projects or making corrections to existing etc. Just fork the repo, add relevant changes and open a pull request!
 > Make sure that the new mini project is made with built-in Node.js modules.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
