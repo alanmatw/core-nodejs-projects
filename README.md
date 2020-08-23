@@ -8,15 +8,9 @@
 
 > A curated list of mini projects made with core `Built-in` Node.js modules.
 
-## Modules Used
+## Overview
 
-Node.js has many buiit-in modules that can be used without any further installation. The modules used in the mini projects so far are:
-
-* http - To make Node.js act as an HTTP server
-* fs - 	To handle the file system
-* path - To handle file paths
-* net - To create servers and clients
-* querystring - To handle URL query strings
+This repository focuses on small projects developed using the core built-in Node.js modules. Node.js has many buiit-in modules that can be used without any further installation.
 
 ## Requirements 
 
