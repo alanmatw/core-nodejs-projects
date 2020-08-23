@@ -24,7 +24,7 @@ Node.js has many buiit-in modules that can be used without any further installat
 * Node.js
 * Git
 
-## Common Setup
+## Getting Started
 
 Clone the repo.
 
