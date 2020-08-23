@@ -7,7 +7,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-> A curated list of mini projects made with core Node.js modules (Built-in modules).
+> A curated list of mini projects made with core `Built-in` Node.js modules.
 
 ## Modules Used
 
