@@ -1,5 +1,5 @@
 # http rest server
-> This mini project implements a http server in Node.js with `rest` functionality.
+> This mini project implements an http server in Node.js with `rest` functionality.
 ## Getting Started
 
 cd to http server directory and run the server.
