@@ -1,6 +1,6 @@
 const http = require('http');
 
-const Users = require('./db/users') 
+const Users = require('./db/users');
 
 // define port
 const port = 8080;
