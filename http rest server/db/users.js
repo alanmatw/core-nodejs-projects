@@ -1,8 +1,8 @@
 let users = [
   {id: 1, name: "Max", mail: "max@gmail.com"},
-  {id: 2, name: "Max", mail: "max@gmail.com"},
-  {id: 3, name: "Max", mail: "max@gmail.com"},
-  {id: 4, name: "Max", mail: "max@gmail.com"}
+  {id: 2, name: "Sam", mail: "sam@gmail.com"},
+  {id: 3, name: "Nick", mail: "Nick@gmail.com"},
+  {id: 4, name: "Zoe", mail: "zoe@gmail.com"}
 ]
 
 getUsers = () => {
