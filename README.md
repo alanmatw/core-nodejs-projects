@@ -4,8 +4,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
 > A curated list of mini projects made with core `Built-in` Node.js modules.
 
 ## Overview
@@ -35,7 +33,6 @@ node index.js
 ## Contributing
 
 All are welcomed to contribute to this repo by creating new mini projects or making corrections to existing etc. Just fork the repo, add relevant changes and open a pull request!
-> Make sure that the new mini project is made with built-in Node.js modules.
 
 ## License
 
