@@ -9,9 +9,9 @@ getUsers = () => {
   return users;
 }
 
-const Users = () => {}
+const Users = function() {}
 
-Users.prototype.getUsers = getUsers;
+Users.prototype.getUsers = getUsers
 
 
 module.exports = new Users();
