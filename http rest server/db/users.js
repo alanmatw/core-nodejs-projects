@@ -18,6 +18,7 @@ saveUsers = (data) => {
 const Users = function() {}
 
 Users.prototype.getUsers = getUsers;
+Users.prototype.saveUsers = saveUsers;
 
 
 module.exports = new Users();
