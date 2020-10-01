@@ -12,8 +12,10 @@ This repository focuses on small projects developed using the core built-in Node
 
 ## Requirements 
 
-* Node.js
+* npm
 * Git
+* Node.js
+
 
 ## Getting Started
 
